@@ -14,7 +14,10 @@ Analyzed the dataset contains information on 426K cars to ensure speed of proces
 After doing EDA on Numeric and categorial values, tried to find the top n highly correlated features. Tried with simple Linear regression, added the polynomial features with various hyperparameters for the model.
 
 Went thru multiple iterations and found out the following features are creating the best model compare to other features, and Hyperparameter with degree=3,
-'transmission_other', 'year', 'condition_good', 'drive_4wd', 'manufacturer_ram', 'cylinders_8 cylinders', 'paint_color_white', 'paint_color_black','drive_rwd', 'manufacturer_gmc','manufacturer_tesla', 'manufacturer_audi', 'manufacturer_jaguar', 'manufacturer_ford','manufacturer_alfa-romeo', 'manufacturer_rover', 'manufacturer_porsche'
+
+'transmission_other', 'year', 'condition_good', 'drive_4wd', 'manufacturer_ram', 'cylinders_8 cylinders', 
+'paint_color_white', 'paint_color_black','drive_rwd', 'manufacturer_gmc','manufacturer_tesla', 'manufacturer_audi', 
+'manufacturer_jaguar', 'manufacturer_ford','manufacturer_alfa-romeo', 'manufacturer_rover', 'manufacturer_porsche'
 
 
 Link to this notebook :
